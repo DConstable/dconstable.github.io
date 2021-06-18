@@ -87,7 +87,7 @@ author:
   employer         : "Lancaster University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=hSmB0PMAAAAJ"
-  email            :
+  email            : "d.constable@lancaster.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/David-Constable"
   uri              :
   bitbucket        :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
