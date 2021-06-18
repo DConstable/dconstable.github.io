@@ -26,6 +26,7 @@ Work experience
   * Engineering Department, Lancaster University & Cockcroft Institute, Daresbury
   * Duties included: Tagging issues
   * Supervisor: Prof. Graeme Burt & Dr. Chris Lingwood
+
 <!---
 Skills
 ======
@@ -36,11 +37,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 -->
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
 <!---
 #Talks
 #======
