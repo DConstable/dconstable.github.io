@@ -1,7 +1,7 @@
 ---
 title: "Numerical simulations of a co-harmonic gyrotron"
 collection: publications
-permalink: /publication/2012-01-30-https://iopscience.iop.org/article/10.1088/0022-3727/45/6/065105/meta
+permalink: /publication/2012-01-30-coharmonic-gyrotron
 excerpt: 'This paper details numerical simulations of a co-harmonic gyro-multiplier.'
 date: 2012-01-30
 venue: 'Journal of Physics D: Applied Physics'
