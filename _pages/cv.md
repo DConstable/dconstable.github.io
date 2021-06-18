@@ -26,22 +26,22 @@ Work experience
   * Engineering Department, Lancaster University & Cockcroft Institute, Daresbury
   * Duties included: Tagging issues
   * Supervisor: Prof. Graeme Burt & Dr. Chris Lingwood
-
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
-
+<!---
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+-->
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+<!---
 #Talks
 #======
 #  <ul>{% for post in site.talks %}
@@ -57,3 +57,4 @@ Publications
 #Service and leadership
 #======
 #* Currently signed in to 43 different slack teams
+-->
