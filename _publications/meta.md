@@ -5,8 +5,8 @@ permalink: /publication/2012-01-30-https://iopscience.iop.org/article/10.1088/00
 excerpt: 'This paper details numerical simulations of a co-harmonic gyro-multiplier.'
 date: 2012-01-30
 venue: 'Journal of Physics D: Applied Physics'
-citation: '<b>D.A. Constable</b>, K. Ronald, W. He, A.D.R. Phelps, A.W. Cross, A.V. Savilov, V.L. Bratman and I.V. Bandurkin (2012). &amp;quot;Numerical simulations of a co-harmonic gyrotron&amp;quot; <i>J. Phys. D.</i>. <b>45</b>, 065105.'
+citation: '<b>D.A. Constable</b>, K. Ronald, W. He, A.D.R. Phelps, A.W. Cross, A.V. Savilov, V.L. Bratman and I.V. Bandurkin (2012). "Numerical simulations of a co-harmonic gyrotron", <i>J. Phys. D.</i>. <b>45</b>, 065105.'
 ---
 This paper details numerical simulations of a co-harmonic gyro-multiplier.
 
-Recommended citation: <b>D.A. Constable</b>, K. Ronald, W. He, A.D.R. Phelps, A.W. Cross, A.V. Savilov, V.L. Bratman and I.V. Bandurkin (2012). &quot;Numerical simulations of a co-harmonic gyrotron&quot; <i>J. Phys. D.</i>. <b>45</b>, 065105.
+Recommended citation: <b>D.A. Constable</b>, K. Ronald, W. He, A.D.R. Phelps, A.W. Cross, A.V. Savilov, V.L. Bratman and I.V. Bandurkin (2012). "Numerical simulations of a co-harmonic gyrotron", <i>J. Phys. D.</i>. <b>45</b>, 065105.
