@@ -1,5 +1,5 @@
 ---
-title: "A novel cylindrical TE<sub>2,1</sub> mode conveter"
+title: "A novel cylindrical TE<sub>2,1</sub> mode converter"
 collection: publications
 permalink: /publication/2010-09-17-novel-cylindrical-mode-converter
 excerpt: 'This paper examines the numerical design, simulation, construction and testing of a rectangular to cylindrical waveguide mode converter. Using slots machined along the length of the cylindrical section, mode conversion can be forced from the TE<sub>1,0</sub> rectangular mode to the TE<sub>2,1</sub> cylindrical mode.'
