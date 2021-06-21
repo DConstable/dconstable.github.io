@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 <b>About Me</b>
+
 I am a planetary scientist, working in the [Space & Planetary Physics group](https://www.lancaster.ac.uk/physics/research/astrophysics/space-and-planetary-physics/) in the Physics Department at Lancaster University. My current research is primarily focussed on the numerical modelling of plasma dynamics in the Jovian magnetosphere, but I am also interested in auroral phenomena, the use of High Performance Computing and data analysis techniques.
 
 <b>My Background</b>
+
 I have a background in Radio Frequency (RF) physics and engineering, with extensive experience in the numerical simulation of RF devices, like gyrotrons and klystrons. I have specialisms in computational physics and data analysis, which stems from my [Ph.D. studies on the numerical investigation of gyro-multiplier arrangements](http://www.research.lancs.ac.uk/portal/services/downloadRegister/111859693/Thesis_Final.pdf). During this time, I gained experience in RF design, fabrication and measurement techniques. 
 
 
