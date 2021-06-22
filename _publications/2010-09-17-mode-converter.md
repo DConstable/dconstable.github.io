@@ -13,4 +13,4 @@ citation: '<b>D.A. Constable</b>, X.S. Fampris, K. Ronald, W. He, C.G. Whyte, an
 
 This paper examines the numerical design, simulation, construction and testing of a rectangular to cylindrical waveguide mode converter. Using slots machined along the length of the cylindrical section, mode conversion can be forced from the TE<sub>1,0</sub> rectangular mode to the TE<sub>2,1</sub> cylindrical mode.
 
-Recommended citation: <b>D.A. Constable</b>, X.S. Fampris, K. Ronald, W. He, C.G. Whyte, and C.W. Robertson, (2010). &quot;A novel TE<sub>2,1</sub> mode converter&quot; <i>Rev. Sci. Instrum.</i>, <b>81</b>, 094702.
+Citation: <b>D.A. Constable</b>, X.S. Fampris, K. Ronald, W. He, C.G. Whyte, and C.W. Robertson, (2010). &quot;A novel TE<sub>2,1</sub> mode converter&quot; <i>Rev. Sci. Instrum.</i>, <b>81</b>, 094702.
