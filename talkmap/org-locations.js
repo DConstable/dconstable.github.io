@@ -10,9 +10,9 @@ var addressPoints = [
     -2.7990345
   ],
   [
-    "Bangalore, India",
-    12.9791198,
-    77.5912997
+    "National Science Seminar Complex, Bangalore, India",
+    13.01326585,
+    77.5681142340676
   ],
   [
     "London, United Kingdom",
@@ -30,19 +30,14 @@ var addressPoints = [
     -4.2488787
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276474
+    "Institution of Engineering and Technology, London, UK",
+    51.510120549999996,
+    -0.1194202946464154
   ],
   [
-    "Rome, Italy",
-    41.8933203,
-    12.4829321
-  ],
-  [
-    "Kalamata, Greece",
-    37.0377582,
-    22.1109392
+    "Elite City Resort Hotel, Kalamata, Greece",
+    37.02199185,
+    22.142291334031885
   ],
   [
     "Sendai, Japan",
