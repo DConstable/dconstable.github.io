@@ -1,8 +1,23 @@
 var addressPoints = [
   [
+    "99 City Road Conference Centre, London, United Kingdom",
+    51.4896794,
+    0.120553
+  ],
+  [
+    "Portola Hotel, Monterey, California",
+    36.6025276,
+    -121.8942906
+  ],
+  [
     "Cockcroft Institute, Daresbury, United Kingdom",
     53.344629049999995,
     -2.638262702852691
+  ],
+  [
+    "The Low Wood Hotel, Windermere, United Kingdom",
+    54.391165599999994,
+    -2.907746667106276
   ],
   [
     "Lancaster, United Kingdom",
@@ -15,9 +30,19 @@ var addressPoints = [
     77.5681142340676
   ],
   [
+    "Edinburgh International Conference Centre, Edinburgh, United Kingdom",
+    55.946181249999995,
+    -3.209596532504661
+  ],
+  [
     "Geological Society, London, United Kingdom",
     51.5086375,
     -0.1387827
+  ],
+  [
+    "UIC, Paris, France",
+    48.855106,
+    2.2918907963695974
   ],
   [
     "Rutherford Appleton Laboratory, United Kingdom",
@@ -40,6 +65,16 @@ var addressPoints = [
     12.488191075834571
   ],
   [
+    "CERN, Switzerland",
+    46.2339717,
+    6.0557211
+  ],
+  [
+    "Glasgow Science Centre, Glasgow, United Kingdom",
+    55.85869515,
+    -4.294465805627723
+  ],
+  [
     "Elite City Resort Hotel, Kalamata, Greece",
     37.02199185,
     22.142291334031885
@@ -50,13 +85,33 @@ var addressPoints = [
     -2.78574432350981
   ],
   [
+    "Monterey Marriott Hotel, Monterey, California, United States",
+    36.600554349999996,
+    -121.8953487167058
+  ],
+  [
+    "Marine Hotel, North Berwick, United Kingdom",
+    56.057302,
+    -2.7006297
+  ],
+  [
     "Lancaster University, Lancaster, United Kingdom",
     54.0179947,
     -2.7927347
   ],
   [
+    "Bella Centre, Copenhagen, Denmark",
+    55.6380729,
+    12.582926
+  ],
+  [
     "Tohoku University, Sendai, Japan",
     38.2530945,
     140.8736593
+  ],
+  [
+    "University of Warwick, Coventry, United Kingdom",
+    52.3813073,
+    -1.5639569481637439
   ]
 ];
