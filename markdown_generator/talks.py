@@ -93,8 +93,10 @@ for row, item in talks.iterrows():
 
 
     if len(str(item.talk_url)) > 3:
-        md += "\n[More information here](" + item.talk_url + ")\n"
+        md += "\n[Click here for abstract or paper](" + item.talk_url + ")\n"
 
+    if len(str(item.presentation_location)) > 3:
+        md += "\n[Click here for presentation](" + item.presentation_location + ")\n"
 
     if len(str(item.description)) > 3:
         md += "\n" + html_escape(item.description) + "\n"
