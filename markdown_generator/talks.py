@@ -91,7 +91,6 @@ for row, item in talks.iterrows():
 
     md += "---\n"
 
-
     if len(str(item.talk_url)) > 3:
         md += "\n[Click here for abstract or paper](" + item.talk_url + ")\n"
 
